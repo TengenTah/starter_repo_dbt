@@ -37,6 +37,6 @@ models:
     staging:
       materialized: table
     prep:
-        materialized: table
+      materialized: table
     mart:
-        materialized: table
+      materialized: table
